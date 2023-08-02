@@ -16,3 +16,7 @@ h1 {
     top: 0px;
     padding: 10px; 
 }
+
+.feature {
+    background: pink;
+}
