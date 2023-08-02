@@ -6,6 +6,7 @@ div {
     display: flex; 
     justify-content: center;
     align-items: center;
+    margin-top: 130px;
 }
 h1 {
     color: green;
@@ -13,4 +14,5 @@ h1 {
     left: 0px;
     bottom: 0px;
     top: 0px;
+    padding: 10px; 
 }
