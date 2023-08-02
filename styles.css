@@ -20,3 +20,9 @@ h1 {
 .feature {
     background: pink;
 }
+
+.TheSecondFeature {
+    color: white; 
+    background: blue;
+    margin-left: 20px;
+}
